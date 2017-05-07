@@ -1,9 +1,9 @@
 # 概述
 ## 编写目的
-文档包含实训流程标准化xx项目
+文档包含实训流程标准化xx项目  
 ## 项目范围
 **客户端：**
-！[MD](http://pic.sogou.com/pics/recompic/detail.jspcategory=%E5%A3%81%E7%BA%B8&tag=%E4%B8%96%E7%95%8C%E9%A3%8E%E5%85%89#0%2611905870%260)
+![MD](http://pic.sogou.com/pics/recompic/detail.jsp?category=%E5%A3%81%E7%BA%B8&tag=%E4%B8%96%E7%95%8C%E9%A3%8E%E5%85%89#0%2611905870%260)  
 *超出范围*
 # 功能性需求
 1. 账号密码
@@ -17,5 +17,5 @@
 + 验证
 + 跳转
 
-<http://www.baidu.com>
+<http://www.baidu.com>  
 [百度网页](http://baidu.com)
